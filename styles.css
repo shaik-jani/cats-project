@@ -1,0 +1,9 @@
+img {
+  max-width: 20%;
+  min-width: 20%;
+}
+
+table tbody tr td:last-child,
+table thead tr th:last-child {
+  text-align: left;
+}
